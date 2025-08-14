@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Ginto",
+    "previewText": "ginto font.",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/asaltukok/Test/raw/main/Font/ginto_650.otf",
+        "ggsans-Bold": "https://github.com/asaltukok/Test/raw/main/Font/ginto_600.otf",
+        "ggsans-BoldItalic": "https://github.com/asaltukok/Test/raw/main/Font/ginto_600_italic.otf",
+        "ggsans-ExtraBold": "https://github.com/asaltukok/Test/raw/main/Font/ginto_650.otf",
+        "ggsans-ExtraBoldItalic": "https://github.com/asaltukok/Test/raw/main/Font/ginto_650_italic.otf",
+        "ggsans-Medium": "https://github.com/asaltukok/Test/raw/main/Font/ginto_530.otf",
+        "ggsans-MediumItalic": "https://github.com/asaltukok/Test/raw/main/Font/ginto_530_italic.otf",
+        "ggsans-Normal": "https://github.com/asaltukok/Test/raw/main/Font/ginto_400.otf",
+        "ggsans-NormalItalic": "https://github.com/asaltukok/Test/raw/main/Font/ginto_400_italic.otf",
+        "ggsans-Semibold": "https://github.com/asaltukok/Test/raw/main/Font/ginto_480.otf",
+        "ggsans-SemiboldItalic": "https://github.com/asaltukok/Test/raw/main/Font/ginto_480_italic.otf",
+        "NotoSans-Bold": "https://github.com/asaltukok/Test/raw/main/Font/ginto_600.otf",
+        "NotoSans-ExtraBold": "https://github.com/asaltukok/Test/raw/main/Font/ginto_650.otf",
+        "NotoSans-Medium": "https://github.com/asaltukok/Test/raw/main/Font/ginto_530.otf",
+        "NotoSans-Normal": "https://github.com/asaltukok/Test/raw/main/Font/ginto_400.otf",
+        "NotoSans-NormalItalic": "https://github.com/asaltukok/Test/raw/main/Font/ginto_400_italic.otf",
+        "NotoSans-Semibold": "https://github.com/asaltukok/Test/raw/main/Font/ginto_480.otf",
+        "SourceCodePro-Semibold": "https://github.com/asaltukok/Test/raw/main/Font/ginto_600.otf"
+    }
+}
