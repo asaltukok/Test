@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "ROBOTO",
+    "previewText": "ROBOTO font.",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/asaltukok/Test/raw/main/Roboto%20Font/Roboto-ExtraBold.ttf",
+        "ggsans-Bold": "https://github.com/asaltukok/Test/raw/main/Roboto%20Font/Roboto-Bold.ttf",
+        "ggsans-BoldItalic": "https://github.com/asaltukok/Test/raw/main/Roboto%20Font/Roboto-BoldItalic.ttf",
+        "ggsans-ExtraBold": "https://github.com/asaltukok/Test/raw/main/Roboto%20Font/Roboto-ExtraBold.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/asaltukok/Test/raw/main/Roboto%20Font/Roboto-ExtraBoldItalic.ttf",
+        "ggsans-Medium": "https://github.com/asaltukok/Test/raw/main/Roboto%20Font/Roboto-Medium.ttf",
+        "ggsans-MediumItalic": "https://github.com/asaltukok/Test/raw/main/Roboto%20Font/Roboto-MediumItalic.ttf",
+        "ggsans-Normal": "https://github.com/asaltukok/Test/raw/main/Roboto%20Font/Roboto-VariableFont_wdth,wght.ttf",
+        "ggsans-NormalItalic": "https://github.com/asaltukok/Test/raw/main/Roboto%20Font/Roboto-Italic-VariableFont_wdth,wght.ttf",
+        "ggsans-Semibold": "https://github.com/asaltukok/Test/raw/main/Roboto%20Font/Roboto-SemiBold.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/asaltukok/Test/raw/main/Roboto%20Font/Roboto-SemiBoldItalic.ttf",
+        "NotoSans-Bold": "https://github.com/asaltukok/Test/raw/main/Roboto%20Font/Roboto-Bold.ttf",
+        "NotoSans-ExtraBold": "https://github.com/asaltukok/Test/raw/main/Roboto%20Font/Roboto-ExtraBold.ttf",
+        "NotoSans-Medium": "https://github.com/asaltukok/Test/raw/main/Roboto%20Font/Roboto-Medium.ttf",
+        "NotoSans-Normal": "https://github.com/asaltukok/Test/raw/main/Roboto%20Font/Roboto-VariableFont_wdth,wght.ttf",
+        "NotoSans-NormalItalic": "https://github.com/asaltukok/Test/raw/main/Roboto%20Font/Roboto-Italic-VariableFont_wdth,wght.ttf",
+        "NotoSans-Semibold": "https://github.com/asaltukok/Test/raw/main/Roboto%20Font/Roboto-SemiBold.ttf",
+        "SourceCodePro-Semibold": "https://github.com/asaltukok/Test/raw/main/Roboto%20Font/Roboto-SemiBold.ttf"
+    }
+}
